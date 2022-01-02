@@ -67,7 +67,7 @@ Steps to install (pips, req.txt)
 
 ### Run
 ***
-Here's how to run the project.
+Navigate to the filder the file in in and run in jupyter
 
 
 ### Explore
@@ -87,7 +87,7 @@ Who you give credit to for the notebooks & project
 Contact details: 
 If you wish to ask me anything about the repository do not hesitate to contact me at: g00387818@gmit.ie
 
-
+Sorry Ian not a good showing on my part, if it makes you feel any better I had an awful Christmas. :)
 
 
 
