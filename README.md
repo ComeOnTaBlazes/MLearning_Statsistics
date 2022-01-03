@@ -34,7 +34,7 @@ The repository has been created to submit the assignment for Machine Learning an
 <br>
 <br>
 
-![Scipy Stats Logo](https://upload.wikimedia.org/wikipedia/en/5/58/Scipylogo.png "Scipy Stats Logo")
+
 
 <img src="https://upload.wikimedia.org/wikipedia/en/5/58/Scipylogo.png" alt="Scikit Learn Logo">
 <br>
@@ -45,8 +45,6 @@ The repository has been created to submit the assignment for Machine Learning an
 - Appropriate plots and other visualisations to enhance your notebook for viewers.(10%)
 <br>
 <br>
-
-![Wordpad Logo](https://www.tenforums.com/geek/gars/images/2/types/thumb_Notepad.png "Wordpad Logo")
 
 <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_Notepad.png" alt="Scikit Learn Logo" style="width:200px;height:200px;" >
 
